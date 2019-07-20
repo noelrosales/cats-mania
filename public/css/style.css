@@ -27,9 +27,10 @@ header{
 }
 
 .cover{
-    background: url('../img/bg.jpg');
-    background-size: cover;
-    background-position-y: -150px;
+    /* background: url('../img/bg.jpg'); */
+    /* background-size: cover; */
+    /* background-position-y: -150px; */
+    background: darkmagenta;
     height: 50vh;
     position: relative;
     display: flex;
