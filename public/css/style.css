@@ -31,6 +31,23 @@ header a{
     padding: 12px 20px
 }
 
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card{
+    padding: 20px;
+    background: white;
+    line-height: 1.6rem;
+    text-align: justify;
+}
+
+.card h1, .card p{
+    margin-bottom: 20px
+}
+
 .cover{
     /* background: url('../img/bg.jpg'); */
     /* background-size: cover; */
